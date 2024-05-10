@@ -1,7 +1,7 @@
 ### Hey! I`m Daniil Shulgin.
 #### Java backend developer
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;next.js,nextjs,auto;&width=780)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&title=Tech%20Stack&lineCount=1&line1=spring,spring,auto;spring%20boot,spring%20boot,auto;docker,docker,auto;hibernate,hibernate,59666C;postgresql,postgresql,auto;next.js,nextjs,auto;&width=847)
 ![](https://hit.yhype.me/github/profile?user_id=91407999)
 
 
